@@ -5,6 +5,7 @@
 ```sh
 cd ~
 mkdir learn-react
+
 ```
 
 - Create a [Vite](https://vite.dev/) app
@@ -14,7 +15,9 @@ mkdir learn-react
   - Use version 5 due to node support 
 
 ```sh
-npm create vite@5 01-learn-react -- --template react
+
+npm create vite@5 01-learn-react-app -- --template react
+
 ```
 
 La bibliothèque pour des interfaces utilisateurs web et natives
